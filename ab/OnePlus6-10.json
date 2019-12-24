@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+      "url": "https://sourceforge.net/projects/oneplus6-test/files/admin/syberia_oneplus6-v3.2-20191224-1333-OFFICIAL.zip/download",
+      "datetime": 1577194380,
+      "id": "4f135ef9cdd6a86be8a49521337db56306d3dfd9a7521037276dcc829a60e1cc",
+      "filename": "syberia_oneplus6-v3.2-20191224-1333-OFFICIAL.zip",
+      "version": "v3.2",
+      "romtype": "OFFICIAL",
+      "device_codename": "enchilada",
+      "size": "617673460",
+      "device_model": "OnePlus 6",
+      "device_brand": "OnePlus"
+    }
+  ]
+}
